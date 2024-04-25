@@ -1,0 +1,3 @@
+INSERT INTO USER_INFO (USER_NAME,USER_ID, PASSWORD) VALUES
+('张飞','doha123', '1234'),
+('赵云','sungmen123', '1234');

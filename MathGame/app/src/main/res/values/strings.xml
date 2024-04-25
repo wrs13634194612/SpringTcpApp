@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="button_name">Играть</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="button2_name">ДА</string>
+    <string name="button3_name">НЕТ</string>
+    <string name="coins">Ваши баллы:</string>
+    <string name="example">2 + 2 = 4?</string>
+    <string name="gameover">Конец Игры!</string>
+    <string name="points">Ваши баллы:</string>
+    <string name="refresh">Начать сначала</string>
+
+
+</resources>
